@@ -11,7 +11,7 @@ function check(){
     var yy = perseInt(year.substr(2.4));
     var yy = perseInt(year.substr(0.2));
 
-   var dayWeek = Maths.abs(parseInt(((cc/4) -2*cc-1) + ((5*yy/4)) + ))
+   var dayWeek = Maths.abs(parseInt(((cc/4) -2*cc-1) + ((5*yy/4)) +  ))
 
 }
 
