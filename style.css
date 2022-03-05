@@ -1,3 +1,11 @@
+*{
+    text-align: center;
+}
+
 form{
-    display: flex;
+    background-image: url("/images/gh.jpeg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 500px;
+    
 }
