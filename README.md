@@ -1,8 +1,8 @@
-# Isurance page project
+# Akan names project
 
 ##### Kiplangat Meshack
 
-### It is a description of my 2nd project at moringa school (insurance web).
+### It is a description of a web aplication project which defines a ghanian name for a user acording to the day he/she was born (Akan Names).
 
 ## Table of Content
 
@@ -15,7 +15,8 @@
 
 ## Description
 
-<p>This is  a website that shows my 2nd moringa project.It contains all styles used and deployments of the project.</p>
+<p>Thiseb aplication project which defines a ghanian name for a user acording to the day he/she was born
+.</p>
 
 ## Installation
 
@@ -27,7 +28,7 @@
 
 ### Installation Process
 
-[Go Back to the top](Insurance web)
+[Go Back to the top](Akan Names project)
 
 ## Technology Used
 
@@ -35,11 +36,13 @@
 
 - CSS - which was used to style the pages incuding the left aside navigation bar
 
+- javascript - to make the web interactice
+
 ## Reference
 
 - Materialize CSS
 
-[Go Back to the top](#insurance web)
+[Go Back to the top](#Akan names web aplications)
 
 ## Licence
 
@@ -65,11 +68,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](insurance web page)
+[Go Back to the top](Akan names web aplication)
 
 ## Authors Info
 
 Slack Profile - [Kiplangat Meshack](https://moringaclassroom.slack.com/team/U02TWD73YSE)
 Linked - [Kiplangat Meshack](https://www.linkedin.com/in/kiplangat-meshack-411598216/)
 
-[Go Back to the top](#insurance web)
+[Go Back to the top](#Akan names web)
