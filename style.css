@@ -63,3 +63,7 @@ select{
 #year{
     margin-left: 20px;
 }
+h1{
+    color: #5a0404;
+    text-shadow: 2px 2px #ac6161;
+}
