@@ -1,0 +1,23 @@
+.welcome{
+    text-align: center;
+    background-image: url("/images/dance.jpeg");
+    background-repeat: no-repeat;
+    height: 800px;
+}
+p{
+    font-size: 20px;
+    color: white;
+}
+.desk{
+    width: 500px;
+    padding: 10px;
+    padding-top: 70px;
+    text-align: center;
+    margin-left: 480px;
+    margin-top: 100px;
+    background-color: gray;
+    border-radius: 20px;
+    opacity: 0.8;
+    height: 200px;
+    box-shadow: 10px;
+}

@@ -1,11 +1,11 @@
 *{
     text-align: center;
+    color: rgb(17, 6, 6);
 }
 
-form{
-    background-image: url("/images/gh.jpeg");
+.welcome{
+    background-image: url("/images/swing.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 500px;
-    
+    height: 800px;
 }
