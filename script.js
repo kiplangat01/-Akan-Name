@@ -4,19 +4,19 @@ var femaleNames = ['Akosua',  'Adwoa', 'Abenaa', 'Akua',  'Yaa', 'Afua', 'Ama'];
 function check(){
    var gender = document.getElementById("gender").value;
    var day = document.getElementById("day").value;
-   var dd = parseInt(day);
+   var DD = parseInt(day);
    var month = document.getElementById("month").value;
-   var mm = parseInt(month);
+   var MM = parseInt(month);
    var year = document.getElementById("year").value;
-   var yy = parseInt(year.substr(2, 4));
-   var cc = parseInt(year.substr(0, 2));
+   var YY = parseInt(year.substr(2, 4));
+   var CC = parseInt(year.substr(0, 2));
 
-   var birthDay = parseInt(((cc/4) -2*cc-1) + ((5*yy/4) ) + ((26*(mm+1)/10)) + dd)%7;
+   var birthDay = parseInt(((CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD)%7;
 
-   if (dd <= 0 || dd > 31){
+   if (DD <= 0 || DD > 31){
        alert("enter valid date");
    } 
-   else if (mm <= 0 || mm > 12){
+   else if (MM <= 0 || MM > 12){
     alert("enter valid month");
 } 
    else if (year <= 0){
