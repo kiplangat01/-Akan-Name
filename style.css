@@ -5,8 +5,9 @@
 }
 
 .form {
-   background-color: aqua;
+   background-image: url("images/huts.jpg");
     height: 680px;
+    background-size: 100%;
     padding-top: 80px;
 }
 
