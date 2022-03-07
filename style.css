@@ -4,10 +4,10 @@
     color: rgb(17, 6, 6);
 }
 
-.form{
-    background-image: url("images/swing.jpg");
+.form {
+   background-image: url("images/huts.jpg");
+    height: 680px;
     background-size: 100%;
-    height: 680px; 
     padding-top: 80px;
 }
 
@@ -16,7 +16,8 @@ input {
     width: 300px;
     background-color: gray;
     border-radius: 5px;
-    color: white;
+    color: black;
+    font-size: 20px;
     border: 0px;
     height: 30px;
 }
@@ -52,7 +53,7 @@ select {
 /* give a border for paragraph and inputs */
 .parent {
     width: 500px;
-    box-shadow: 5px 5px 20px 20px #888888;
+    box-shadow: 5px 5px 25px 25px #888888;
     background-color: white;
     margin-left: 500px;
     padding: 30px;
@@ -60,6 +61,10 @@ select {
 }
 
 p {
+    font-weight: bold;
+}
+#gender{
+    color: rgb(0, 0, 0);
     font-weight: bold;
 }
 
@@ -74,4 +79,7 @@ p {
 h1 {
     color: #5a0404;
     text-shadow: 2px 2px #ac6161;
+}
+option{
+    color: #5a0404;
 }
