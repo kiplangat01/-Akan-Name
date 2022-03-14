@@ -1,8 +1,9 @@
-# Akan names project
+# Delani studio project
 
 ##### Kiplangat Meshack
 
-### It is a description of a web aplication project which defines a ghanian name for a user acording to the day he/she was born (Akan Names).
+### This is a studio web page which you can get to know about the studio and all the services offered you can go through it and send a feedback message(Delani studio)
+
 
 ## Table of Content
 
@@ -15,7 +16,7 @@
 
 ## Description
 
-<p>Thiseb aplication project which defines a ghanian name for a user acording to the day he/she was born
+<p>This is a studio web page which you can get to know about the studio and all the services offered you can go through it and send a feedback message
 .</p>
 
 ## Installation
@@ -28,7 +29,7 @@
 
 ### Installation Process
 
-[Go Back to the top](Akan Names project)
+[Go Back to the top](Delani studio project)
 
 ## Technology Used
 
@@ -42,7 +43,7 @@
 
 - Materialize CSS
 
-[Go Back to the top](#Akan names web aplications)
+[Go Back to the top](#Delani studio project)
 
 ## Licence
 
@@ -68,11 +69,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](Akan names web aplication)
+[Go Back to the top](delani-studo)
 
 ## Authors Info
 
 Slack Profile - [Kiplangat Meshack](https://moringaclassroom.slack.com/team/U02TWD73YSE)
 Linked - [Kiplangat Meshack](https://www.linkedin.com/in/kiplangat-meshack-411598216/)
 
-[Go Back to the top](#Akan names web)
+[Go Back to the top](#Delani studio web)
